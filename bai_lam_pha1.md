@@ -3,7 +3,7 @@
 - **Mã đề:** 07
 - **Họ tên:** Nguyễn Xuân Cường
 - **Lớp:** CNTT1
-- **Link repository Pha1:**
+- **Link repository Pha1:** https://github.com/Nguyen-Xuan-Cuong/HN-K26-CNTT1_PromptAI_H02_Pha1-Pha2
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
